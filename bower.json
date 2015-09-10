@@ -1,6 +1,7 @@
 {
   "name": "bpg-ucnobi",
-  "description": "BPG Ucnobi Web Font",
+  "description": "BPG Ucnobi Web-Font Package",
+  "version": "1.0.0",
   "keywords": ["ttf", "woff", "woff2", "svg", "font", "web-font", "bpg-ucnobi"],
   "main": [
     "css/bpg-ucnobi.css"
@@ -13,7 +14,7 @@
     "type": "git",
     "url": "https://github.com/web-fonts/bpg-ucnobi.git"
   },
-  "license": "MIT",
+  "license": ["MIT", "CC-BY-NC-ND-4.0"],
   "ignore": [
     "**/.*",
     "node_modules",
